@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dancing-in-the-dark/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Dancing In The Dark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dancing-in-the-dark/) |
+| **Get License** | [Official Music Licensing for Dancing In The Dark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dancing-in-the-dark/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `eac8575b32d740f8c572b0998bca58d37161f3f25d9a852043128fede61cc9c2` |
 | **Timestamp** | May 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
